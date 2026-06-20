@@ -1,0 +1,10 @@
+/.vscode/
+
+/.direnv/
+/.envrc
+/.env
+
+/target/
+/Cargo.lock
+/.cargo/config
+/.cargo/config.toml
